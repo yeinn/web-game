@@ -1,0 +1,22 @@
+{
+  "name": "number-baseball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "최예인",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "bootstrap-vue": "^2.21.2",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.9.7",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
